@@ -873,7 +873,7 @@ const pickLevelParameters = {
     1: {
         attributes: [
             {"SHAPE": ["SQUARE", "TRIANGLE", "CIRCLE", "PENTAGON", "TRAPEZOID"]},
-            {"COLOR": ["RED", "ORANGE", "GREEN", "BLUE", "PURPLE"]},
+            {"COLOR": ["RED", "ORANGE", "GREEN", "BLUE"]},
             //{"BORDER": ["BLACK", "BRONZE", "SILVER", "GOLD", "LIGHTBLUE"]},
             //{"PATTERN": ["PLAIN", "STRIPED", "SPOTTED", "NET", "SPIRAL"]},
         ],
